@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="page">
+<meta charset="utf-8">	
+
+		<head>
+			<link rel="stylesheet" href="styleteasers.css"/>
+			<title>Assignment 3 - Maira Sa Araujo - 3061003 </title>
+		</head>
+		
+ <body>
+	<header id="masthead">
+						
+		<h1>All about Sho<span class="changecolour">nda Rhimes</span></h1>
+		</a>
+		
+
+
+</header> <!--end of masthead-->
+
+<div class ="content">
+
+<div class="navigation">
+<nav>
+			
+<ul>
+	
+	<div>
+		<li><a href="index.html"> Home</a> </li> 
+	</div> 
+	<div>
+	<li><a href="aboutshonda.html">About my Hero </a></li> 
+	</div>
+	<div>
+	<li><a href="shondasworks.html">My Hero works </a></li> 
+	</div>
+	<div>
+	<li><a href="teasers.html">Teasers </a></li>
+	</div> 
+	<div> 
+	<li><a href="aboutme.html">About me </a></li> 
+	</div>
+	<div>
+	<li><a href="contact.html">Contact me</a></li>
+	</div>
+	<div>
+	<li><a href="bibliography.html">Bibliography</a></li> 
+	</div>
+
+</ul>
+	 
+ </nav> 
+</div> <!--end of div navigation-->
+		
+	<div id="maindiv">
+     <main>
+	
+       <div class="container">
+		   <article>	
+							
+			   <header>
+			      <h2> Teasers </h2>
+					 
+				  <h4>Here you have some teasers of my two favourites series of her for your delight </h4>
+			        
+		       </header>
+
+			 <div class="youtubeteasers">
+
+				<nav> <!--find out how to leave a square from youtube-->	
+					<ul>
+						<li><a href="https://pt.wikipedia.org/wiki/Pequi">Best food in Brasil</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Man%27s_best_friend">The man's bestfriend</a></li>
+						<li><a href="https://www.vagalume.com.br/marilia-mendonca/">Best singer in Brazil</a></li>
+
+					</ul>
+			</nav>
+			    
+			 </div>
+			
+			
+		</article>
+
+	    </div> <!--end of container div--> 
+	
+	</main>
+   </div> <!--end of div maindiv-->
+		   
+  	 <div id="asidediv">
+		<!-- <aside> 
+			
+			<div id="ShondasPicture">
+				
+                <figure> 
+                    <img src ="images/dog.jpg" alt = "The dog"> (insert a picture of Shonda here to be on the right side of the page)
+                    
+                 </figure>
+                
+				
+		</aside> -->
+		
+	
+	</div> <!--end of div asidediv-->
+
+</div> <!--end of content div-->
+	
+			<footer>
+				
+				<p> &reg; Mairóviskis 2021</p>
+
+			<nav>	
+			        <ul>
+						
+                        <li><a href="Contact">Please contact me by email</li>
+                            <!--add contact to my phone-->
+
+					</ul>	
+			</nav>			
+			
+			</footer>						
+
+			
+ </body>
+		
+
+
+</html>

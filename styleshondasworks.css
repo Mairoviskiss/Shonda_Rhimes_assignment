@@ -1,0 +1,181 @@
+body {
+    font-family: Helvetica Neue, sans-serif;
+    background-color: #ceb6ca;
+    
+}
+
+#masthead {
+    width: 1000px;
+    margin: 0 auto;
+    height: 200px;
+    background-image: url("images/headerbackground.jpg");
+    margin: 0 auto;
+    background-position: center;
+    background-size: cover;    
+    background-repeat: no-repeat;
+    padding: 1.5rem; 
+    
+}
+
+.changecolour {
+    color: #eeebeb;
+}
+
+#masthead h1 {
+   color: rgb(24, 17, 17);
+   font-size: 4rem;
+   margin: 0;
+   padding: 0;
+   line-height: 3;
+   position: relative;
+   left: 90px;
+
+}
+
+
+.content {
+    width: 1048px;
+    margin: 0 auto;   
+    background-color: rgb(246, 250, 198);
+    display: flex;
+    flex-direction: row;
+    height: 850px;
+
+}
+
+ 
+main {
+    width: 90%;   
+     
+  }
+
+
+.content nav ul a {
+    color: white;
+    text-decoration: none;
+  
+}
+
+.navigation {
+    background-color: #172121;
+    padding: 1rem;
+    border-width: 2px;
+    border-style: solid;
+    width: 509px;
+   
+}
+
+
+.content nav ul {
+    list-style-type: none;
+    padding: 0rem;
+    margin: 0 auto;
+    display: flex; 
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 7rem;
+    text-align: left;
+     
+ }
+
+
+.content nav ul a:hover {
+    color: rgba(0, 153, 255, 0.767);
+}
+
+
+.abouthow {
+    margin-bottom: 3rem;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #BFACB5;
+
+} 
+
+article h2 {
+    font-size: 2rem;
+    margin: 0;
+   
+}
+
+article header {
+    margin-top: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #7F7B82;
+    
+}
+
+
+main .article-body p {
+    font-family: Georgia;
+    line-height: 1.5rem;
+    text-align: justify;
+}
+
+main a {
+    color: #7F7B82;
+    text-decoration: none;
+}
+
+#maindiv {
+    display: flex;
+    justify-content: flex-start;
+    flex-grow: 1;
+    padding: 1.5rem; 
+}
+
+#asidediv {
+   width: 280px;
+   margin: 0 auto;
+   padding: 0;
+   display: flex;
+   justify-content: flex-start;
+   flex-direction: column;
+   float: right;
+   align-items: flex-end;   
+ 
+
+}
+
+.Shondaspic {
+    position: relative;
+    left: 10px;
+    top: 90px;
+}
+
+.aboutGreys {
+    position: relative;
+    top: 30px;
+}
+
+.GreysAnatomypic {
+    position: relative;
+    left: 35px;
+    top: 85px; 
+  
+}
+
+.abouthow {
+    position: relative;
+    top: 80px;
+    
+}
+
+.Howtogetawaypic {
+    position: relative;
+    left: 35px;
+    top: 80px;
+
+}
+
+
+footer {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #172121;
+    padding: 1.5rem;
+    color: white;
+    
+}
+
